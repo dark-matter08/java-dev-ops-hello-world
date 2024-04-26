@@ -15,6 +15,8 @@
       id="Name"
       required />
     <br />
+    <br />
+    <br />
 
     <label for="mobile"><b>Enter mobile</b></label>
     <input
@@ -23,6 +25,8 @@
       name="mobile"
       id="mobile"
       required />
+    <br />
+    <br />
     <br />
 
     <label for="email"><b>Enter Email</b></label>
@@ -33,6 +37,8 @@
       id="email"
       required />
     <br />
+    <br />
+    <br />
 
     <label for="psw"><b>Password</b></label>
     <input
@@ -41,6 +47,8 @@
       name="psw"
       id="psw"
       required />
+    <br />
+    <br />
     <br />
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
@@ -52,6 +60,7 @@
       required />
     <hr />
     <br />
+    <br />
     <p>
       By creating an account you agree to our <a href="#">Terms & Privacy</a>.
     </p>
@@ -60,6 +69,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+  <br />
+  <br />
 
   <h1>Thankyou, Happy Learning</h1>
 </form>
