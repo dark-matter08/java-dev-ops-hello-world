@@ -1,7 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Dark Matter Tech Registration</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>
+      Please fill in this form to create an account or do not fill the form i
+      dont care.
+    </p>
     <hr />
 
     <label for="Name"><b>Enter Name</b></label>
