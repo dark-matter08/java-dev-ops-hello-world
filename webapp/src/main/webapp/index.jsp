@@ -51,7 +51,7 @@
     <br />
     <br />
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Repeat the fkxing password</b></label>
     <input
       type="password"
       placeholder="Repeat Password"
