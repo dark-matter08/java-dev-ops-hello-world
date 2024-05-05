@@ -14,8 +14,9 @@
     <br />
     <br />
     <br />
+    <hr />
 
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile for money</b></label>
     <input
       type="text"
       placeholder="Enter moible number"
@@ -25,6 +26,7 @@
     <br />
     <br />
     <br />
+    <hr />
 
     <label for="email"><b>Enter Email</b></label>
     <input
@@ -36,6 +38,7 @@
     <br />
     <br />
     <br />
+    <hr />
 
     <label for="psw"><b>Password</b></label>
     <input
@@ -47,6 +50,7 @@
     <br />
     <br />
     <br />
+    <hr />
 
     <label for="psw-repeat"><b>Repeat the fkxing password</b></label>
     <input
@@ -58,6 +62,7 @@
     <hr />
     <br />
     <br />
+    <hr />
     <p>
       By creating an account you agree to our <a href="#">Terms & Privacy</a>.
     </p>
@@ -68,6 +73,7 @@
   </div>
   <br />
   <br />
+  <hr />
 
   <h1>Thankyou, Happy Learning</h1>
 </form>
