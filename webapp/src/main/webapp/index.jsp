@@ -17,7 +17,7 @@
     <hr />
     <br />
 
-    <label for="mobile"><b>Enter mobile for money</b></label>
+    <label for="mobile"><b>Enter Mobile Number</b></label>
     <input
       type="text"
       placeholder="Enter Mobile Number"
