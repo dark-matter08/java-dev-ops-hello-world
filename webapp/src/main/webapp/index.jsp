@@ -3,6 +3,7 @@
     <h1>Dark Matter Tech Registration</h1>
     <p>Please fill in this form to create an account?</p>
     <hr />
+    <br />
 
     <label for="Name"><b>Enter Name</b></label>
     <input
@@ -12,9 +13,8 @@
       id="Name"
       required />
     <br />
-    <br />
-    <br />
     <hr />
+    <br />
 
     <label for="mobile"><b>Enter mobile for money</b></label>
     <input
@@ -24,9 +24,8 @@
       id="mobile"
       required />
     <br />
-    <br />
-    <br />
     <hr />
+    <br />
 
     <label for="email"><b>Enter Email</b></label>
     <input
@@ -36,9 +35,8 @@
       id="email"
       required />
     <br />
-    <br />
-    <br />
     <hr />
+    <br />
 
     <label for="psw"><b>Password</b></label>
     <input
@@ -48,9 +46,8 @@
       id="psw"
       required />
     <br />
-    <br />
-    <br />
     <hr />
+    <br />
 
     <label for="psw-repeat"><b>Repeat the password</b></label>
     <input
@@ -59,8 +56,6 @@
       name="psw-repeat"
       id="psw-repeat"
       required />
-    <br />
-    <br />
     <br />
     <hr />
     <p>
