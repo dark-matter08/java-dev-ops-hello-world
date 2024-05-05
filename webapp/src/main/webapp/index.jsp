@@ -13,6 +13,7 @@
       id="Name"
       required />
     <br />
+    <br />
     <hr />
     <br />
 
@@ -23,6 +24,7 @@
       name="mobile"
       id="mobile"
       required />
+    <br />
     <br />
     <hr />
     <br />
@@ -35,6 +37,7 @@
       id="email"
       required />
     <br />
+    <br />
     <hr />
     <br />
 
@@ -46,6 +49,7 @@
       id="psw"
       required />
     <br />
+    <br />
     <hr />
     <br />
 
@@ -56,6 +60,7 @@
       name="psw-repeat"
       id="psw-repeat"
       required />
+    <br />
     <br />
     <hr />
     <p>
