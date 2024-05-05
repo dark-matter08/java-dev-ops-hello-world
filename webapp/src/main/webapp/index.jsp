@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Dark Matter Tech Registration For Real on top of your matter</h1>
+    <h1>Dark Matter Tech Registration</h1>
     <p>Please fill in this form to create an account?</p>
     <hr />
 
@@ -52,7 +52,7 @@
     <br />
     <hr />
 
-    <label for="psw-repeat"><b>Repeat the fkxing password</b></label>
+    <label for="psw-repeat"><b>Repeat the password</b></label>
     <input
       type="password"
       placeholder="Repeat Password"
