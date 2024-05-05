@@ -59,7 +59,7 @@
       name="psw-repeat"
       id="psw-repeat"
       required />
-    <hr />
+    <br />
     <br />
     <br />
     <hr />
