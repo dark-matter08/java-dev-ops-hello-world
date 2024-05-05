@@ -19,7 +19,7 @@
     <label for="mobile"><b>Enter mobile for money</b></label>
     <input
       type="text"
-      placeholder="Enter moible number"
+      placeholder="Enter Mobile Number"
       name="mobile"
       id="mobile"
       required />
@@ -71,5 +71,5 @@
   <br />
   <hr />
 
-  <h1>Thankyou, Happy Learning.....xxx</h1>
+  <h1>Thankyou, Happy Learning</h1>
 </form>
